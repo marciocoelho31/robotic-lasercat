@@ -18,7 +18,7 @@ No momento em que ele é acionado, o dispositivo envia uma mensagem para um brok
 Site do curso: https://cursos.alura.com.br/course/robotica-brinquedo-interativo
 
 
-<img src="https://raw.githubusercontent.com/marciocoelho31/robotic-lasercat/main/lasercat1.jpg" height="350">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/marciocoelho31/robotic-lasercat/main/lasercat2.jpg" height="350"><br><br><img src="https://raw.githubusercontent.com/marciocoelho31/robotic-lasercat/main/lasercat3.jpg" height="350">&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/marciocoelho31/robotic-lasercat/main/lasercat4.jpg" height="350">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/marciocoelho31/robotic-lasercat/main/lasercat5.jpg" height="350"><br><br><img src="https://raw.githubusercontent.com/marciocoelho31/robotic-lasercat/main/mqttdash1.png" height="350">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/marciocoelho31/robotic-lasercat/main/mqttdash2.png" height="350">
+<img src="https://raw.githubusercontent.com/marciocoelho31/robotic-lasercat/main/lasercat1.jpg" height="300">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/marciocoelho31/robotic-lasercat/main/lasercat2.jpg" height="300"><br><br><img src="https://raw.githubusercontent.com/marciocoelho31/robotic-lasercat/main/lasercat3.jpg" height="300">&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/marciocoelho31/robotic-lasercat/main/lasercat4.jpg" height="300">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/marciocoelho31/robotic-lasercat/main/lasercat5.jpg" height="300"><br><br><img src="https://raw.githubusercontent.com/marciocoelho31/robotic-lasercat/main/mqttdash1.png" height="300">&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/marciocoelho31/robotic-lasercat/main/mqttdash2.png" height="300">
 
 
